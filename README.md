@@ -7,13 +7,13 @@ Patchlist:
 -----
 v0.0.2:
 ### These setskills are lost in time and space:
-Peerless Deer
-Peerless Bovine
-Peerless Tree
-Peerless Mushroom
-Peerless Penguin
-Peerless Dragon
-Flash Shower
+Peerless Deer;
+Peerless Bovine;
+Peerless Tree;
+Peerless Mushroom;
+Peerless Penguin;
+Peerless Dragon;
+Flash Shower;
  - you still can abuse MushroomRat, but it's a short-term and known bug.
 -----
 v0.0.1:
