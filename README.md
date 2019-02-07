@@ -5,6 +5,16 @@ Download link is available here: https://yadi.sk/d/s5coVjQsFaIuUw
 ###
 Patchlist:
 -----
+v0.0.2:
+### These setskills are lost in time and space:
+-Peerless Deer
+-Peerless Bovine
+-Peerless Tree
+-Peerless Mushroom
+-Peerless Penguin
+-Peerless Dragon
+-Flash Shower
+-----
 v0.0.1:
 ###  Caladbong: is replaced with Halo Former Greatsword with extreme accuracy in its stats. Inspired by a wretched japanese dude.
  - Isn't it the first thing that should be implemented? For the sake of memes! https://yadi.sk/i/vzLY4spRFeAiEg
