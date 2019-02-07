@@ -1,6 +1,6 @@
 # The-Burningyai-ALPHA
 Patapon 3 modding is easier than ever.
-Download link is available here: https://yadi.sk/d/s5coVjQsFaIuUw
+Download link is available here: https://yadi.sk/d/FLaJGFc2quPlCQ
 *tag if it doesn't work in your region*
 ###
 Patchlist:
