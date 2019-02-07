@@ -13,6 +13,7 @@ Peerless Tree;
 Peerless Mushroom;
 Peerless Penguin;
 Peerless Dragon;
+Peerless Bow;
 Flash Shower;
  - you still can abuse MushroomRat, but it's a short-term and known bug.
 -----
