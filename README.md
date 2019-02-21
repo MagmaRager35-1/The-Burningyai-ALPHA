@@ -28,7 +28,7 @@ Blade of Astria: Damage bonuses against certain enemies are majorly boosted.
 Tsukigiri: Lightning-fast attacks, also recieved a damage buff. 100% shieldbreaker. Is now overpowered, but way too simple to use.
 
 ### I've got a new stylish icon for ya! Check it at PSP's main menu.
-
+-----
 ### v0.02: These setskills are lost in time and space.
 Peerless Deer;
 Peerless Bovine;
@@ -39,7 +39,7 @@ Peerless Dragon;
 Peerless Bow;
 Flash Shower;
  - I've made myself tons of design space, thank you. ALL the listed abode are very limiting for me. You still can abuse MushroomRat, but it's a short-term and known bug.
-
+-----
 ###  v0.01: Welcome the new memes!
 
 Caladbong: is replaced with Halo Former Greatsword with extreme accuracy in its stats. Inspired by a wretched japanese dude.
