@@ -6,7 +6,7 @@ Download link is available here: https://yadi.sk/d/FLaJGFc2quPlCQ
 Patchlist:
 -----
 
-### v0.03: A few changes for Unique swords and blades.
+### v0.03: Changes are coming for Unique Swords and Blades!
 Flangil: +9000 HP
 
 Drigonlay: Fire attack element.
@@ -27,7 +27,7 @@ Blade of Astria: Damage bonuses against certain enemies are majorly boosted.
 
 Tsukigiri: Lightning-fast attacks, also recieved a damage buff. 100% shieldbreaker. Is now overpowered, but way too simple to use.
 
-### v0.02: These setskills are lost in time and space:
+### v0.02: These setskills are lost in time and space.
 Peerless Deer;
 Peerless Bovine;
 Peerless Tree;
@@ -36,7 +36,7 @@ Peerless Penguin;
 Peerless Dragon;
 Peerless Bow;
 Flash Shower;
- - you still can abuse MushroomRat, but it's a short-term and known bug.
+ - I've made myself tons of design space, thank you. ALL the listed abode are very limiting for me. You still can abuse MushroomRat, but it's a short-term and known bug.
 
 ###  v0.01: Welcome the new memes!
 
